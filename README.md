@@ -1,7 +1,6 @@
-### alejandromume
-## Learning Programmer / Developer
+## alejandromume
 
-I am a developer that is experienced in HTML, JavaScript, C#, Python, SQL, PHP, and learning Cybersecurity
+### I am a developer that is experienced in HTML, JavaScript, C#, Python, SQL, PHP, and learning Cybersecurity
 
 
 <a href="https://github.com/Alias444">
