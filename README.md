@@ -12,3 +12,9 @@
 </a>
 <br>
 <br>
+
+---
+
+### Desktop :)
+
+![Img](https://pays.host/uploads/9e9a5a7e-b0dc-4cc9-b1cf-17bc8d2f4aa9/kugNbmDH.png)
