@@ -17,4 +17,4 @@
 
 ### Desktop :)
 
-![Img](https://pays.host/uploads/9e9a5a7e-b0dc-4cc9-b1cf-17bc8d2f4aa9/kugNbmDH.png)
+![Captura](https://user-images.githubusercontent.com/43515908/112378313-ac85a480-8cde-11eb-9894-79bc7b5e5b16.png)
