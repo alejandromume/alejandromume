@@ -1,7 +1,5 @@
 # alejandromume
 
-- Currently I'm a Spanish developer leaving in the Canary Islands. I have more than 3 years of experience programming in various languages and always learning more
-
   <hr style="height:5px; border: 1px solid #ccc;">
 
 |   Projects                |   URL                         |   Description                                                  |
