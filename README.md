@@ -2,10 +2,6 @@
 
   <hr style="height:5px; border: 1px solid #ccc;">
 
-|   Projects                |   URL                         |   Description                                                  |
-|---------------------------|-------------------------------|----------------------------------------------------------------|
-| El Mercadillo del Canario | https://discord.gg/HW9zCdRSVa | My personal shop with FiveM scripts, Discord bots, software... |
-
 ### <ins>Skills
 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> <img height="20" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"> <img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png"> <img height="20" src="https://www.clipartmax.com/png/middle/301-3018326_que-una-distribuci%C3%B3n-gnu-linux-es-la-forma-m%C3%A1s-c%C3%B3moda-linux-icon.png"> <img height="20" src="https://i1.wp.com/www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png?fit=435%2C473&ssl=1">
