@@ -21,8 +21,8 @@
   <hr style="height:5px; border: 1px solid #ccc;">
 ### <ins>Github stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=alejandromume&show_icons=true&theme=gruvbox" alt="alejandromume" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandromume&layout=compact&show_icons=true&theme=gruvbox" alt="alejandromume" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=alejandromume&show_icons=true&theme=one_dark_pro" alt="alejandromume" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandromume&layout=compact&show_icons=true&theme=one_dark_pro" alt="alejandromume" />
 
 
 <br>
