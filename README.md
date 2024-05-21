@@ -14,9 +14,7 @@
   <hr style="height:5px; border: 1px solid #ccc;">
   
 ### <ins>Contact me
-
-* <img height="18" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> >  [alejandromume80@gmail.com](alejandromume80@gmail.com)
-* <img height="20" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png"> > [alejandromume#4900](https://discord.gg/HW9zCdRSVa)
+* <img height="20" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png"> > [alejandromume](https://discord.gg/HW9zCdRSVa)
 
   <hr style="height:5px; border: 1px solid #ccc;">
 ### <ins>Github stats
