@@ -1,22 +1,23 @@
 # alejandromume
-
+  !Hola! Mi nombre es Alejandro Müller.
+Hasta el dia de hoy he podido trabajar con varios lenguajes de programacion en función del tipo de proyecto que me enfrentaba, entre ellos algunos como JavaScript, PHP, SQL, C#, Python y otras tecnologias como WordPress, Laravel, NodeJS, etc. También cabe destacar mi experiencia en sistemas basados en Unix y Windows, así como ciberseguridad. Estoy constantemente buscando nuevos desafíos y oportunidades para expandir mis habilidades en el campo de la programación. Soy una persona que se adapta facilmente a nuevas situaciones y no me pongo barreras ante nuevos proyectos, ya que soy capaz de encontrar soluciones a los posibles problemas que me encuentre. 
   <hr style="height:5px; border: 1px solid #ccc;">
+
+### <ins>Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandromume/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alejandromume80@protonmail.com)
 
 ### <ins>Skills
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> <img height="20" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"> <img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png"> <img height="20" src="https://www.clipartmax.com/png/middle/301-3018326_que-una-distribuci%C3%B3n-gnu-linux-es-la-forma-m%C3%A1s-c%C3%B3moda-linux-icon.png"> <img height="20" src="https://i1.wp.com/www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png?fit=435%2C473&ssl=1">
-<img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-1f6487?style=for-the-badge&logo=mysql&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   <hr style="height:5px; border: 1px solid #ccc;">
   
-### <ins>Software
-
-<img height="20" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png"> <img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"> <img height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png">
-  <hr style="height:5px; border: 1px solid #ccc;">
-  
-### <ins>Contact me
-* <img height="20" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png"> > [alejandromume](https://discord.gg/HW9zCdRSVa)
-
-  <hr style="height:5px; border: 1px solid #ccc;">
 ### <ins>Github stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=alejandromume&show_icons=true&theme=one_dark_pro" alt="alejandromume" />
