@@ -1,6 +1,7 @@
 # alejandromume
-  ¡Hola! Mi nombre es Alejandro Müller.
-Hasta el dia de hoy he podido trabajar con varios lenguajes de programacion en función del tipo de proyecto que me enfrentaba, entre ellos algunos como JavaScript, PHP, SQL, C#, Python y otras tecnologias como WordPress, Laravel, NodeJS, etc. También cabe destacar mi experiencia en sistemas basados en Unix y Windows, así como ciberseguridad. Estoy constantemente buscando nuevos desafíos y oportunidades para expandir mis habilidades en el campo de la programación. Soy una persona que se adapta facilmente a nuevas situaciones y no me pongo barreras ante nuevos proyectos, ya que soy capaz de encontrar soluciones a los posibles problemas que me encuentre. 
+Estudiante de ingeniería informática en Sevilla. Tengo bastante experiencia en desarrollo web a medida y aplicaciones nativas para diferentes sistemas. He trabajo en lenguajes como Python, JavaScript, C# y frameworks como React, NextJS, Laravel y sistemas de gestión de contenido como WordPress o PrestaShop. Además, cuento con habilidades avanzadas en administración de servidores Linux y estoy interesado en el campo de la ciberseguridad. 
+
+Actualmente llevo la agencia digital `Lava Digital` donde ofrecemos desarrollos webs a medida, optimización en motores de búsqueda y campañas, asi como asesoramiento digital a empresas. Para mas información puedes visitar [lavadigital.es](https://lavadigital.es) 
   <hr style="height:5px; border: 1px solid #ccc;">
 
 ### <ins>Contacto
