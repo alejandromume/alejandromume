@@ -10,7 +10,7 @@
 
 Soy estudiante de Ingeniería Informática en la Universidad de Sevilla con más de 4 años de experiencia como desarrollador Full-Stack freelance. Actualmente, lidero la agencia digital **Lava Digital**, especializada en desarrollo web a medida, SEO técnico, campañas SEM y asesoramiento digital para pymes y el sector turístico.
 
-Cuento con experiencia desarrollando aplicaciones web y nativas usando tecnologías modernas como React, Next.js (App Router, SSR/SSG), Astro, Express.js, Python y PHP, así como sistemas CMS como WordPress y PrestaShop. Además, tengo habilidades avanzadas en administración de servidores Linux y un interés creciente en ciberseguridad.
+Cuento con experiencia desarrollando aplicaciones web y nativas usando tecnologías modernas como React, Next.js (App Router, SSR/SSG), Astro, Express.js, Python y PHP, así como sistemas CMS como WordPress y PrestaShop. Además, tengo habilidades avanzadas en administración de servidores Linux y un interés creciente en ciberseguridad e IA.
 
 ## Tecnologías
 
