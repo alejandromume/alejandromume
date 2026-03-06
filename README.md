@@ -35,4 +35,4 @@ Cuento con experiencia desarrollando aplicaciones web y nativas usando tecnolog�
 
 ### Fundador y CEO - Lava Digital (Octubre 2024 - Actualidad)  
 - Dirijo una agencia digital especializada en desarrollo web a medida, SEO técnico y campañas SEM para el sector turístico y pymes locales.  
-- Lideré reescritura técnica de varios sitios con Next.js, optimizando Core Web Vitals y URLs SEO-friendly, logrando incrementar un 180% el tráfico orgánico en 3 meses.  
+- Lideré reescritura técnica de varios sitios con Next.js, optimizando Core Web Vitals y URLs SEO-friendly, logrando incrementar un 450% el tráfico orgánico en 3 meses.  
